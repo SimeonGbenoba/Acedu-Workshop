@@ -1,0 +1,38 @@
+
+/*single rule h1, mutiple properties  e.g color, background etc*/
+
+h1 {
+  color: #5179ba;
+  background-color: lightgray;
+  width: 25%;
+  height: 38px;
+}
+h1:hover{
+  color: white;
+  cursor: pointer;
+}
+.list-item {
+  font-family: monospace;
+}
+
+
+#css-item {
+  color: #5179ba;
+}
+
+
+#goal-list {
+  border-style: solid;
+  border-color: #5179ba;
+  width: 30%;
+}
+#picture {
+  width: 60%;
+  float: right;
+  border: solid;
+  border-color: grey beige white grey;
+}
+.btn{
+  background-color: black;
+  color:white;
+}
